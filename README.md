@@ -30,7 +30,7 @@ MATLAB/Simulink | LTspice | PSpice | Proteus | KiCad
 
 ## Areas of Interest
 
-Power Electronics | Embedded Hardware & Control | Battery Technologies | Energy Systems | Electric Mobility | Electronics R&D
+Power Electronics | Embedded Hardware & Control | circuit design Battery | Technologies | R&D
 
 ## Activities
 
