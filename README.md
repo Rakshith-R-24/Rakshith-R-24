@@ -36,3 +36,7 @@ Power Electronics | Embedded Hardware & Control | circuit design Battery | Techn
 
 **Secretary — IEEE PELS Student Branch Chapter**  
 Malnad College of Engineering, Hassan
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/rakshith-k-r-2b2772290/)
